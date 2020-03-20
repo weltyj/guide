@@ -12,4 +12,5 @@ Falls ja, versuche den entsprechenden Arzt telefonisch zu erreichen und abzuklä
 Krankschreibungen für Menschen mit leichten Atemwegserkrankungen können
 in Deutschland jetzt telefonisch beim Hausarzt eingeholt werden. (Situation in DE, ergänzende Hinweise für andere Länder folgen)
 
-Wie immer gilt: In Notfällen wähle den Notruf 112 (gilt für ganz Europa)!
+**In Deutschland kann man momentan die [116 117](https://www.116117.de/de/coronavirus.php) anrufen wenn man vermutet sich angesteckt zu haben.**
+**In echten medizinischen Notfällen gilt wie immer europaweit die 112!**

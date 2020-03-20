@@ -1,3 +1,3 @@
-# Beschreibung der amerikanischen Gesundheitspolitik
+# Gesundheitspolitik allgemein
 
-Momentan ist die Beschreibung der amerikanischen Gesundheitspolitik nur auf Englisch verfügbar.
+Zurzeit gibt es nur einen kritischen Abriss über die US-amerikanische Gesundheitspolitik in der englischsprachigen Version dieser Seite.
